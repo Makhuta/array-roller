@@ -1,0 +1,15 @@
+{
+  "name": "array-roller",
+  "version": "1.0.0",
+  "description": "Rolling array for number of times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "roller"
+  ],
+  "author": "Makhuta",
+  "license": "ISC"
+}
